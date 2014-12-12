@@ -127,6 +127,22 @@
         [IGTGlyphDataHelpers setDisabledState:YES forGlyphNamed:@"ENLIGHTENED / ENLIGHTENMENT (TYPE B)"];
         [IGTGlyphDataHelpers setDisabledState:YES forGlyphNamed:@"RESIST / RESISTANCE (TYPE B)"];
         [IGTGlyphDataHelpers setDisabledState:YES forGlyphNamed:@"SHAPER / COLLECTIVE + BEING / HUMAN"];
+        [IGTGlyphDataHelpers setDisabledState:YES forGlyphNamed:@"MYSTERY"];
+        [IGTGlyphDataHelpers setDisabledState:YES forGlyphNamed:@"LEGACY"];
+        [IGTGlyphDataHelpers setDisabledState:YES forGlyphNamed:@"CREATIVITY"];
+        [IGTGlyphDataHelpers setDisabledState:YES forGlyphNamed:@"I / ME / SELF"];
+        [IGTGlyphDataHelpers setDisabledState:YES forGlyphNamed:@"CREATIVITY"];
+        [IGTGlyphDataHelpers setDisabledState:YES forGlyphNamed:@"PERSPECTIVE"];
+        [IGTGlyphDataHelpers setDisabledState:YES forGlyphNamed:@"PRESENCE"];
+        [IGTGlyphDataHelpers setDisabledState:YES forGlyphNamed:@"SHARE"];
+        [IGTGlyphDataHelpers setDisabledState:YES forGlyphNamed:@"VICTORY"];
+        [IGTGlyphDataHelpers setDisabledState:YES forGlyphNamed:@"WE / US"];
+        [IGTGlyphDataHelpers setDisabledState:YES forGlyphNamed:@"YOU / OTHER"];
+        [IGTGlyphDataHelpers setDisabledState:YES forGlyphNamed:@"WORTH"];
+        [IGTGlyphDataHelpers setDisabledState:YES forGlyphNamed:@"KNOWLEDGE"];
+        [IGTGlyphDataHelpers setDisabledState:YES forGlyphNamed:@"PURSUE / CHASE"];
+        
+        
     }
     
     self.answerGlyph = [NSMutableSet set];
