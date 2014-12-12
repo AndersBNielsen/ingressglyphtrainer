@@ -142,8 +142,6 @@
         [IGTGlyphDataHelpers setDisabledState:YES forGlyphNamed:@"KNOWLEDGE"];
         [IGTGlyphDataHelpers setDisabledState:YES forGlyphNamed:@"PURSUE / CHASE"];
         
-        
-        
     }
     
     self.answerGlyph = [NSMutableSet set];
